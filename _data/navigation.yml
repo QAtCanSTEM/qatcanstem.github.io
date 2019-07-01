@@ -1,0 +1,12 @@
+# main links
+main:
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Profiles"
+    url: https:/qatcanstem.github.io/Profiles
+  - title: "About Us"
+    url: https://qatcanstem.github.io/AboutUs
+  - title: "QAtCanSTEM Colloquium"
+    url: https://qatcanstem.github.io/Colloquium
+  # - title: "Sitemap"
+  #   url: /sitemap/
