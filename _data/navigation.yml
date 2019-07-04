@@ -8,5 +8,5 @@ main:
     url: https://qatcanstem.github.io/AboutUs
   - title: "QAtCanSTEM Colloquium"
     url: https://qatcanstem.github.io/Colloquium
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Resources"
+    url: https://qatcanstem.github.io/Resources/

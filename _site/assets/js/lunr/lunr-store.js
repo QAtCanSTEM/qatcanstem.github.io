@@ -2,5 +2,5 @@ var store = [{
         "title": "Landon J. Getz",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "https://qatcanstem.github.io/Landon-J.-Getz/",
-        "teaser":"https://qatcanstem.github.io/assets/images/profiles/landongetz.jpg"}]
+        "url": "http://localhost:4000/Landon-J.-Getz/",
+        "teaser":"http://localhost:4000/assets/images/profiles/landongetz.jpg"}]
