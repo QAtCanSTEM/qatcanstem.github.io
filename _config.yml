@@ -22,7 +22,7 @@ name                     : "QAtCanSTEM"
 description              : "Improving Diversity, Equity, and Inclusion for Queer Folks in STEM across the Atlantic Provinces (and beyond!)"
 url                      : https://qatcanstem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : qatcanstem/watcanstem.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : qatcanstem/qatcanstem.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/QAtCanSTEMSmall-STEM.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -134,9 +134,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: mailto:qatcanstem@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: http://www.twitter.com/qatcanstem 
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
