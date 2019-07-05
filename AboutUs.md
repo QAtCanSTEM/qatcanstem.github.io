@@ -3,6 +3,7 @@ layout: single
 excerpt: Aiming to increasing diversity, equity, and inclusion of Queer folks in STEM across Atlantic Canada (and Beyond!)
 header:
     overlay_image: /assets/images/rainbowflag.jpg
+    og_image: /assets/images/QAtCanSTEMSmall-og.jpg
     show_overlay_excerpt: true
 classes: wide
 ---
