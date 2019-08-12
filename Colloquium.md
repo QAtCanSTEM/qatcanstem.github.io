@@ -8,7 +8,7 @@ header:
 title: QAtCanSTEM Colloquium
 ---
 
-**The QAtCanSTEM Colloquium inaugural event is occuring in January 2020 at Dalhousie University in the New Collaborative Health Education Building on Carlton Campus.**
+**The QAtCanSTEM Colloquium inaugural event is schedueld for Friday evening January 17th and Saturday (all day) January 18th, 2020 at Dalhousie University in the New Collaborative Health Education Building on Carlton Campus.**
 
 Registration is now **open!** Please register and submit abstracts below:
 
