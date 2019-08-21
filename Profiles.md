@@ -1,7 +1,7 @@
 ---
 layout: posts
 type: portfolio
-entries_layout: list
+entries_layout: grid
 header: 
     image: /assets/images/QAtCanSTEM.jpg
     og_image: /assets/images/QAtCanSTEMSmall-og.jpg
