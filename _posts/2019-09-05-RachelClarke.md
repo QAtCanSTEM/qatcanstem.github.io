@@ -10,7 +10,7 @@ sidebar: false
 header:
   teaser: /assets/images/Profiles/RC.jpg
   og_image: /assets/images/Profiles/RC.jpg
-excerpt: "I am more passionate about and am more fulfilled by my work when I am comfortable and secure in my work environment, and strive to help build and maintain work environments that help people feel the same dway."
+excerpt: "I am more passionate about and am more fulfilled by my work when I am comfortable and secure in my work environment, and strive to help build and maintain work environments that help people feel the same way."
 
 ---
       
