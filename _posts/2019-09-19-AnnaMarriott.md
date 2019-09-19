@@ -10,7 +10,7 @@ sidebar: false
 header:
   teaser: /assets/images/Profiles/AM.PNG
   og_image: /assets/images/Profiles/AM.PNG
-  excerpt: "The only long term solution that I see is having more female and queer representation in faculty; diversity is our greatest strength, and would help to remove discrimination from STEM."
+excerpt: "The only long term solution that I see is having more female and queer representation in faculty; Diversity is our greatest strength, and would help to remove discrimination from STEM."
 
 ---
       
