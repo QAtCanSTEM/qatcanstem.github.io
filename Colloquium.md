@@ -23,7 +23,7 @@ Registration is now **open!** Please register and submit abstracts below:
 <div>
 <b>Accessbility Options Available at Venue:</b>
 <ul>
-    The Collaborative Health Education Building is [Rick Hanson Foundation certified](https://rhfac.csaregistries.ca/Site/SiteDetail.aspx?Id=1123) and is power wheelchair accessible. American Sign Language interpretors will be made avaialable upon request.
+    The Collaborative Health Education Building is <a href="https://rhfac.csaregistries.ca/Site/SiteDetail.aspx?Id=1123" target="_blank">Rick Hanson Foundation certified</a> and is power wheelchair accessible. American Sign Language interpretors will be made avaialable upon request. Any other accessibility requests necessary can be made known during registration. We will provide all requests to the best of our abilities.
 </ul>
 </div>
 
