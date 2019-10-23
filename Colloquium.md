@@ -15,7 +15,7 @@ Registration is now **open!** Please register and submit abstracts below:
 {: .text-center}
 [Register and Submit Abstracts Here](https://ciab.scienceatlantic.ca/qatcanstem/){: .btn .btn--primary}
 
-**Abstract submission is due on Friday, November 1st, while registration will remain open until Monday, January 13th.**
+**Abstract submission is due on Friday, November 15st (Extended from November 1st!), while registration will remain open until Monday, January 13th.**
 
 **A note from Science Atlantic:** Science Atlantic is pleased to support the first Atlantic QAtCanSTEM conference by providing the use of our registration and abstract submission system for the event. You can view Science Atlantic's privacy policy [here](https://scienceatlantic.ca/about/policies/#PP). All other conference policies are those of QAtCanSTEM.
 
@@ -23,7 +23,7 @@ Registration is now **open!** Please register and submit abstracts below:
 <div>
 <b>Accessbility Options Available at Venue:</b>
 <ul>
-    <li>List available soon!</li>
+    The Collaborative Health Education Building is [Rick Hanson Foundation certified](https://rhfac.csaregistries.ca/Site/SiteDetail.aspx?Id=1123) and is power wheelchair accessible. American Sign Language interpretors will be made avaialable upon request.
 </ul>
 </div>
 
