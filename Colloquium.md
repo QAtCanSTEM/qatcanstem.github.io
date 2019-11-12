@@ -23,7 +23,7 @@ Registration is now **open!** Please register and submit abstracts below:
    To submit an application:
     <ol>
         <li>Fill out the form found <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=mRm4YH8LLUGSo-F9iunj4Baf5vZzy5JMujeKLsFY7KNUQkJQUjRRNVpLWkw1REhaWk85RDZXWFVURi4u" target="_blank">here</a></li>
-    <li>Send a letter of request to [qatcanstem@gmail.com](mailto:qatcanstem@gmail.com) This letter should outline who you are, how much funding you have already received to attend the QAtCanSTEM Colloquium, and how much you would require. If you have any questions about this process, please contact us at qatcanstem@gmail.com</li>
+    <li>Send a letter of request to <a href="mailto:qatcanstem@gmail.com">qatcanstem@gmail.com</a>. This letter should outline who you are, how much funding you have already received to attend the QAtCanSTEM Colloquium, and how much you would require. If you have any questions about this process, please contact us at qatcanstem@gmail.com</li>
     </ol>
 </ul>
 </div>
