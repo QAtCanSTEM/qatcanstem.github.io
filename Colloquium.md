@@ -6,11 +6,26 @@ header:
     image: /assets/images/colloquium-header.jpg
     teaser: /assets/images/QAtCanSTEMSmall-STEM.jpg
 title: QAtCanSTEM Colloquium
+gallery:
+  - url: https://smu.ca/academics/faculty-of-science.html
+    image_path: /assets/images/Colloquium/SMUFoSLogo.jpg
+  - url: http://wiseatlantic.ca/
+    image_path: /assets/images/Colloquium/WISEatlanticfulllogo.png
+
+gallery1:
+  - url: https://scienceatlantic.ca/
+    image_path: /assets/images/Colloquium/SALogo.jpg
+  - url: https://www.dal.ca/sites/qfsc.html
+    image_path: /assets/images/Colloquium/QFSCLogo.jpg
+
+gallery2:
+  - url: https://engineersnovascotia.ca/
+    image_path: /assets/images/Colloquium/Engineers_NS_clr.jpg
 ---
 
 **The QAtCanSTEM Colloquium inaugural event is scheduled for Friday evening January 17th and Saturday (all day) January 18th, 2020 at Dalhousie University in the New Collaborative Health Education Building on Carlton Campus.**
 
-Registration is now **open!** Please register and submit abstracts below:
+Registration is now **open!** and will remain open until Monday, January 13th. Abstract submission is now closed. However, we will consider late abstracts if they are submitted to us at [qatcanstem@gmail.com](mailto:qatcanstem@gmail.com).
 
 {: .text-center}
 [Register and Submit Abstracts Here](https://ciab.scienceatlantic.ca/qatcanstem/){: .btn .btn--primary}
@@ -28,8 +43,6 @@ Registration is now **open!** Please register and submit abstracts below:
 </ul>
 </div>
 
-**Abstract submission is due on Friday, November 15th (Extended from November 1st!), while registration will remain open until Monday, January 13th.**
-
 **A note from Science Atlantic:** Science Atlantic is pleased to support the first Atlantic QAtCanSTEM conference by providing the use of our registration and abstract submission system for the event. You can view Science Atlantic's privacy policy [here](https://scienceatlantic.ca/about/policies/#PP). All other conference policies are those of QAtCanSTEM.
 
 {: .notice--primary}
@@ -43,3 +56,18 @@ Registration is now **open!** Please register and submit abstracts below:
 This event is open to all, will run like any other STEM conference (Keynote speakers, oral presentations, a poster presentation and mixer), and will focus the voices of the LGBTQ+ community within Science, Technology, Engineering, and Mathematics within Atlantic Canada. 
 
 For more information on how the information collected for Abstract and Registration will be used, please visit Science Atlantic's Privacy Policy [Here](https://scienceatlantic.ca/about/policies/#PP). Information collected will only be seen by the organizing committee and staff at Science Atlantic. By submitting an abstract, the submitter agrees to allow us to share the abstract title, author list, abstract, and your name and affiliation via an abstract book, conference program, and social media. If there are any questions, comments, or concern's please contact [qatcanstem@gmail.com](mailto:qatcanstem@gmail.com).
+
+**The Supporters of the QAtCanSTEM Colloquium**
+
+**Gold Level**
+{% include gallery class="full" %}
+- [The Office of the Vice-Provost of Research and Innovation, Dalhousie University](https://www.dal.ca/dept/senior-administration/vp-research.html)
+
+**Silver Level**
+{% include gallery id="gallery1" layout="half" %}
+- [The Office of the Vice-Provost of Student Affairs, Dalhousie University](https://www.dal.ca/dept/senior-administration/vp-student-services.html)
+- [Memorial University Faculty of Science](https://www.mun.ca/science/)
+- [UPEI Faculty of Science](https://www.upei.ca/science)
+
+**Bronze Level**
+{% include gallery id="gallery2" layout="half" %}
