@@ -30,7 +30,7 @@ Registration is now **open!** and will remain open until Monday, January 13th. A
 {: .text-center}
 [Register and Submit Abstracts Here](https://ciab.scienceatlantic.ca/qatcanstem/){: .btn .btn--primary}
 
-{: .notice--primary}
+{: .notice--info}
 <div>
 <b>Student Attendance/Travel Funding</b>
 <ul>
@@ -40,6 +40,11 @@ Registration is now **open!** and will remain open until Monday, January 13th. A
         <li>Fill out the form found <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=mRm4YH8LLUGSo-F9iunj4Baf5vZzy5JMujeKLsFY7KNUQkJQUjRRNVpLWkw1REhaWk85RDZXWFVURi4u" target="_blank">here</a></li>
     <li>Send a letter of request to <a href="mailto:qatcanstem@gmail.com">qatcanstem@gmail.com</a>. This letter should outline who you are, how much funding you have already received to attend the QAtCanSTEM Colloquium, and how much you would require. If you have any questions about this process, please contact us at qatcanstem@gmail.com</li>
     </ol>
+</ul>
+    
+<b>Halifax Accomodations</b>
+<ul>
+    <a href="https://lordnelsonhotel.ca/" target="_blank">The Lord Nelson Hotel and Suites</a> has offered QAtCanSTEM Attendees a reduced rate from Thursday January 16th to Monday January 20th, 2020. To book (and for more information on the booking), follow the instructions found here: <a href="/assets/images/Colloquium/lord-nelson-offer.pdf" target="_blank">Lord Nelson Booking Offer</a>
 </ul>
 </div>
 
