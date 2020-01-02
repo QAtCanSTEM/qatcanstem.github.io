@@ -18,7 +18,7 @@ Looking for more resources on who to contact, what has been published about LGBT
     * **Newfoundland**
         * [MUN SAGA](https://www.facebook.com/munsagaresourcecenter/)
     * **PEI**
-        * Suggestions welcome!
+        * [PEERS Alliance](http://www.peersalliance.ca)
         
 * Beyond:
     * [pflag Canada](https://pflagcanada.ca/)
