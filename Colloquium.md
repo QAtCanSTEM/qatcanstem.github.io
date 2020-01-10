@@ -75,6 +75,38 @@ This event is open to all, will run like any other STEM conference (Keynote spea
 </p>
 </div>
 
+{: .notice--warning}
+<div>
+    <h1>QAtCanSTEM Colloquium Conference Schedule:</h1>
+    <p><b>Collaborative Health Education Building, 5793 University Ave, Halifax, NS, Room 170</b></p>
+        <a href="/assets/images/Colloquium/ScheduleFinal.pdf" target="_blank"><p>Download a PDF Copy Here</p></a>
+  <p><b>Day 1 - January 17th:</b></p>
+    <p>6:00 - 7:00pm: Registration/Check-In Opens</p>
+    <p>7:00 - 8:00pm: Hidden Diversity in Science: Queer in STEM - Dr. Alex Bond, Natural History Museum (UK)</p>
+    <p>8:00 - 9:00pm: Opening Mixer - Sponsored by the Dalhousie Science Society</p>
+    
+ <p><b>Day 2 - January 18th:</b></p>
+    <p>8:30 - 9:00am: Registration/Check-in Opens</p>
+  <p>  9:00 - 9:30am: Conference Opening</p>
+   <p> 9:30 - 10:30am: A Queer Activist in the Academy: My Journay as an Out Lesbian Student and Faculty Member - Dr. Nola Etkin, Interim Dean of Science, UPEI</p>
+   <p> 10:30 - 11:00am: Break</p>
+    <p>11:00-11:20am: The influence of hydrofluoric acid etching process on the photocatalytic hydrogen evolution reaction using mesoporous silicon nanoparticles - Sarah Martell, Dalhousie University</p>
+    <p>11:20 - 11:40am: Simultaneous Quantification of Fe and Gd contrast agents using MR Fingerprinting - Anna Marriott, Dalhousie University.</p>
+    <p>11:40 - 12:00pm: Computational Insights Into The Biocatalytic Formation of S-X (X=S, N, O) Bonds - Dr. James Gauld, University of Windsor</p>
+    <p>12:00 - 1:00pm: Lunch</p>
+    <p>12:30 - 1:00pm: Colloquium Strategy Planning Meeting, Room TBD</p>
+    <p>1:00 - 2:00pm: 2SLGBTQ+++ in STEM: Experiences and Mitigations: A Panel Discussion</p>
+    <p>2:00 - 2:20pm: The Postnatal Healthcare Experiences of Resettled Syrian Refugees in Nova Scotia: Barriers, Facilitators, and Need for Services - Emma Cameron, Dalhousie University</p>
+    <p>2:20 - 2:40pm: LGBTQ+ Health: Eliminating barriers to care and promoting advocacy in the healthcare system - Kels Smith, University of Prince Edward Island</p>
+    <p>2:40 - 3:00pm: Examining the properties of late-spring and summer fogs in Halifax - Joelle Dionne, Dalhousie University</p>
+    <p>3:00 - 3:30pm: Break</p>
+    <p>3:30 - 3:50pm: The dear enemy phenomenon in red squirrels - Jack Hendrix, Memorial University</p>
+    <p>3:50 - 4:10pm: The emission of electromagnetic radiation from the early stages of relativistic heavy-ion collisions - Jessica Churchill, McGill University</p>
+    <p>4:10 - 4:30pm: To flee or to forage: predation risk, food quality and snowshoe hare space use - Isabella C Richmond, Memorial University</p>
+    <p>4:30 - 5:00pm: Poster Lightning Talks and Closing Statements</p>
+    <p>5:00 - 6:00pm: Poster Session and Snacks</p>
+    <p>6:00 - 8:00pm: Networking and Closing Mixer - Location TBD</p>
+</div>
 **A note from Science Atlantic:** Science Atlantic is pleased to support the first Atlantic QAtCanSTEM conference by providing the use of our registration and abstract submission system for the event. You can view Science Atlantic's privacy policy [here](https://scienceatlantic.ca/about/policies/#PP). All other conference policies are those of QAtCanSTEM.
 
 For more information on how the information collected for Abstract and Registration will be used, please visit Science Atlantic's Privacy Policy [Here](https://scienceatlantic.ca/about/policies/#PP). Information collected will only be seen by the organizing committee and staff at Science Atlantic. By submitting an abstract, the submitter agrees to allow us to share the abstract title, author list, abstract, and your name and affiliation via an abstract book, conference program, and social media. If there are any questions, comments, or concern's please contact [qatcanstem@gmail.com](mailto:qatcanstem@gmail.com).
