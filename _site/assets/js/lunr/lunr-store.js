@@ -13,4 +13,9 @@ var store = [{
         "excerpt":"Name: Anna Marriott How do you Identify: Transgender + Lesbian Current Job: PhD Student Scientific Field/Discipline: Medical Physics Affiliation: Dalhousie University Tell Us about yourself: I am a Medical Physics PhD student at Dalhousie University, who moved from England to Canada 5 years ago. I am an avid cyclist, videogamer,...","categories": [],
         "tags": [],
         "url": "https://qatcanstem.github.io/AnnaMarriott/",
-        "teaser":"https://qatcanstem.github.io/assets/images/Profiles/AM.PNG"}]
+        "teaser":"https://qatcanstem.github.io/assets/images/Profiles/AM.PNG"},{
+        "title": "Atlantic Canadian STEMist - Tam Pham",
+        "excerpt":"Name:Tam Pham Pronouns: She/her, sometimes they/them How do you Identify: Pansexual Website: LinkedIn Twitter: @TamPham98392156 Current Job: M.Sc student at the Rainey Lab Scientific Field/Discipline: Structural biology, Biophysics, GPCR protein interaction Affiliation: Department of Biochemistry and Molecular Biology of Dalhousie University Tell Us about yourself: I am a M.Sc student...","categories": [],
+        "tags": [],
+        "url": "https://qatcanstem.github.io/TamPham/",
+        "teaser":"https://qatcanstem.github.io/assets/images/Profiles/TP.jpg"}]
