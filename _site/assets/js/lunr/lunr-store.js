@@ -15,7 +15,7 @@ var store = [{
         "url": "https://qatcanstem.github.io/AnnaMarriott/",
         "teaser":"https://qatcanstem.github.io/assets/images/Profiles/AM.PNG"},{
         "title": "Atlantic Canadian STEMist - Tam Pham",
-        "excerpt":"Name:Tam Pham Pronouns: She/her, sometimes they/them How do you Identify: Pansexual Website: LinkedIn Twitter: @TamPham98392156 Current Job: M.Sc student at the Rainey Lab Scientific Field/Discipline: Structural biology, Biophysics, GPCR protein interaction Affiliation: Department of Biochemistry and Molecular Biology of Dalhousie University Tell Us about yourself: I am a M.Sc student...","categories": [],
+        "excerpt":"Name:Tam Pham Pronouns: She/He/They How do you Identify: Pansexual Genderfluid Person of Colour Website: LinkedIn Twitter: @TamPham98392156 Current Job: M.Sc student at the Rainey Lab Scientific Field/Discipline: Structural biology, Biophysics, GPCR protein interaction Affiliation: Department of Biochemistry and Molecular Biology of Dalhousie University Tell Us about yourself: I am a...","categories": [],
         "tags": [],
         "url": "https://qatcanstem.github.io/TamPham/",
         "teaser":"https://qatcanstem.github.io/assets/images/Profiles/TP.jpg"}]
