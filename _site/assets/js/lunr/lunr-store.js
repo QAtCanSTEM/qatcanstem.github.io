@@ -13,4 +13,9 @@ var store = [{
         "excerpt":"Name: Tam Pham Pronouns: She/He/They How do you Identify: Pansexual Genderfluid Person of Colour Website: LinkedIn Twitter: @TamPham98392156 Current Job: M.Sc student at the Rainey Lab Scientific Field/Discipline: Structural biology, Biophysics, GPCR protein interaction Affiliation: Department of Biochemistry and Molecular Biology of Dalhousie University Tell Us about yourself: I am...","categories": [],
         "tags": [],
         "url": "https://qatcanstem.github.io/TamPham/",
-        "teaser":"https://qatcanstem.github.io/assets/images/Profiles/TP.jpg"}]
+        "teaser":"https://qatcanstem.github.io/assets/images/Profiles/TP.jpg"},{
+        "title": "Queer Atlantic Canadian STEMist - Stephen Finnis",
+        "excerpt":"Name: Stephen Finnis How do you Identify: Gay Current Job: MSc. student Scientific Field/Discipline: Oceanography Affiliation: Dalhousie University Tell Us about yourself: I am a master’s student in the Department of Oceanography at Dalhousie University. My interests outside of research include biking, hiking, arts and crafts, and 90s pop divas....","categories": [],
+        "tags": [],
+        "url": "https://qatcanstem.github.io/StephanFinnis/",
+        "teaser":"https://qatcanstem.github.io/assets/images/Profiles/SF.jpg"}]
