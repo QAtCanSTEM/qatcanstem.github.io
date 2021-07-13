@@ -18,6 +18,7 @@ excerpt: "I am more passionate about and am more fulfilled by my work when I am 
 
 ### Name: Stephen Finnis
 ### How do you Identify: Gay
+### [LinkedIn](https://www.linkedin.com/in/stephen-finnis-84b67655/)
 ### Current Job: MSc. student
 ### Scientific Field/Discipline: Oceanography
 ### Affiliation: Dalhousie University

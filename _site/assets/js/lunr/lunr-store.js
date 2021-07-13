@@ -15,7 +15,7 @@ var store = [{
         "url": "https://qatcanstem.github.io/TamPham/",
         "teaser":"https://qatcanstem.github.io/assets/images/Profiles/TP.jpg"},{
         "title": "Queer Atlantic Canadian STEMist - Stephen Finnis",
-        "excerpt":"Name: Stephen Finnis How do you Identify: Gay Current Job: MSc. student Scientific Field/Discipline: Oceanography Affiliation: Dalhousie University Tell Us about yourself: I am a master’s student in the Department of Oceanography at Dalhousie University. My interests outside of research include biking, hiking, arts and crafts, and 90s pop divas....","categories": [],
+        "excerpt":"Name: Stephen Finnis How do you Identify: Gay LinkedIn Current Job: MSc. student Scientific Field/Discipline: Oceanography Affiliation: Dalhousie University Tell Us about yourself: I am a master’s student in the Department of Oceanography at Dalhousie University. My interests outside of research include biking, hiking, arts and crafts, and 90s pop...","categories": [],
         "tags": [],
-        "url": "https://qatcanstem.github.io/StephanFinnis/",
+        "url": "https://qatcanstem.github.io/StephenFinnis/",
         "teaser":"https://qatcanstem.github.io/assets/images/Profiles/SF.jpg"}]
